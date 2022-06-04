@@ -1,0 +1,3 @@
+[submodule "project/autokettle"]
+	path = project/autokettle
+	url = https://github.com/gw8ndal/autokettle
